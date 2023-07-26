@@ -1,4 +1,4 @@
-import { squareSum } from "../../../src/coding-challenges/array/square-sum";
+import { squareSum } from "@/coding-challenges/array/square-sum";
 
 describe('Array: square each number and then sum', () => {
   test('[]', () => {

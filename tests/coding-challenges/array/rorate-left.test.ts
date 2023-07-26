@@ -1,4 +1,4 @@
-import { rotateLeft } from "../../../src/coding-challenges/array/rotate-left";
+import { rotateLeft } from "@/coding-challenges/array/rotate-left";
 
 describe('Array: rotate left', () => {
   const testArray = [1,5,6];
