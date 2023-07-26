@@ -8,6 +8,10 @@
     "test": "npx jest",
     "test:coverage": "npx jest --coverage"
   },
+  "engines": {
+    "node": ">=18.17.0",
+    "npm": ">=9.6.7"
+  },
   "author": "https://github.com/subhajitsaha",
   "license": "MIT",
   "devDependencies": {
